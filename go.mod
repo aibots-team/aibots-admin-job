@@ -11,7 +11,7 @@ require (
 	github.com/suyuan32/simple-admin-common v1.0.5
 	github.com/zeromicro/go-zero v1.5.2
 	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
